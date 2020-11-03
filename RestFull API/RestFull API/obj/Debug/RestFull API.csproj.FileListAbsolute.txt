@@ -1,0 +1,10 @@
+C:\Users\dayan\source\repos\RestFull API\RestFull API\bin\Debug\RestFull API.exe.config
+C:\Users\dayan\source\repos\RestFull API\RestFull API\bin\Debug\RestFull API.exe
+C:\Users\dayan\source\repos\RestFull API\RestFull API\bin\Debug\RestFull API.pdb
+C:\Users\dayan\source\repos\RestFull API\RestFull API\obj\Debug\RestFull API.csprojAssemblyReference.cache
+C:\Users\dayan\source\repos\RestFull API\RestFull API\obj\Debug\RestFull_API.Form1.resources
+C:\Users\dayan\source\repos\RestFull API\RestFull API\obj\Debug\RestFull_API.Properties.Resources.resources
+C:\Users\dayan\source\repos\RestFull API\RestFull API\obj\Debug\RestFull API.csproj.GenerateResource.cache
+C:\Users\dayan\source\repos\RestFull API\RestFull API\obj\Debug\RestFull API.csproj.CoreCompileInputs.cache
+C:\Users\dayan\source\repos\RestFull API\RestFull API\obj\Debug\RestFull API.exe
+C:\Users\dayan\source\repos\RestFull API\RestFull API\obj\Debug\RestFull API.pdb
